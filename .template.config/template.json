@@ -1,0 +1,9 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "airzym",
+    "classifications": [ "Web", "WebAPI" ],
+    "identity": "airzym_dotnet_template",
+    "name": "Airzym donet Template",
+    "shortName": "airzym_webapi",
+    "sourceName": "dotnet_template"
+  }
